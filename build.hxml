@@ -1,0 +1,9 @@
+-debug
+-cp src
+-main Main
+-js .build/index.js
+
+-lib tink_http
+-lib json2object
+-lib react-next
+-lib redux

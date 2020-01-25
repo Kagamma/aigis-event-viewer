@@ -1,0 +1,7 @@
+.build/*.js
+.build/*.json
+.build/*.html
+.build/girls
+node_modules
+.haxelib
+package-lock.json

@@ -1,0 +1,6 @@
+-debug
+-cp src
+-main DataGenerator
+
+--interp
+#-neko DataGenerator.n
