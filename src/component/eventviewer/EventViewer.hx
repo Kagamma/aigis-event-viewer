@@ -30,7 +30,7 @@ class EventViewer extends ReactComponentOfProps<EventViewerProps> {
             ));
         }
         return jsx(
-            <div className='eventviewer'>
+            <div key={Math.random()} className='eventviewer'>
                 {text}
             </div>
         );
